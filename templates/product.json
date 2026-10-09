@@ -252,6 +252,68 @@
         "spacing": "none"
       }
     },
+    "multi_column_JFH8BK": {
+      "type": "multi-column",
+      "blocks": {
+        "item_gPGAJy": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/D_35.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AWNnAj": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/D_10.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_dR7QKG": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/D_11.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_gPGAJy",
+        "item_AWNnAj",
+        "item_dR7QKG"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "scrolling_text_6CcYUy": {
       "type": "scrolling-text",
       "name": "Scrolling text",
@@ -327,6 +389,7 @@
     "rich_text_kHCJ37",
     "testimonials_rTCqbw",
     "media_with_text_VJdg6Y",
+    "multi_column_JFH8BK",
     "scrolling_text_6CcYUy",
     "faq_KDU6h9"
   ]
