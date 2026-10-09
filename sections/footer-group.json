@@ -96,7 +96,7 @@
           "type": "text",
           "settings": {
             "title": "Contactez-Nous",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "content": "<p>Service Client</p><p>Lun–Ven | 9h–12h / 13h–17h<br/><strong><br/>creation@velaro.com</strong></p>",
             "enable_follow_on_shop": true
           }
         }
