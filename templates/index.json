@@ -181,6 +181,68 @@
         "product_card_text_color": ""
       }
     },
+    "multi_column_GkHNXd": {
+      "type": "multi-column",
+      "blocks": {
+        "item_mB9Fwm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/D_35.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_wFwNiz": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/D_10.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Qdcrwx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/D_11.webp",
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_mB9Fwm",
+        "item_wFwNiz",
+        "item_Qdcrwx"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "slideshow_hWzAcT": {
       "type": "slideshow",
       "blocks": {
@@ -391,6 +453,7 @@
     "logoscroll_UxqnCP",
     "media_with_text_wnXyCQ",
     "featured_collection_74jaEx",
+    "multi_column_GkHNXd",
     "slideshow_hWzAcT",
     "scrolling_text_p3NQWW",
     "rich_text_fd8yLg",
