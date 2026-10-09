@@ -26,6 +26,8 @@
     "secondary_button_background": "#f0c417",
     "secondary_button_text_color": "#1a1a1a",
     "product_card_text_color": "#1a1a1a",
+    "product_rating_color": "#00B67A",
+    "product_on_sale_accent": "#1F1F1F",
     "product_primary_badge_background": "#803cee",
     "heading_font": "schibsted_grotesk_n5",
     "heading_font_size": "small",
