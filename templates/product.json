@@ -124,6 +124,39 @@
         "input_text_color": ""
       }
     },
+    "rich_text_kHCJ37": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_Tp9W9m": {
+          "type": "subheading",
+          "settings": {
+            "text": "ILS EN PARLENT MIEUX QUE NOUS"
+          }
+        },
+        "heading_bdHQw7": {
+          "type": "heading",
+          "settings": {
+            "text": "+3,000 Clients Satisfaits",
+            "heading_tag": "h2",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_Tp9W9m",
+        "heading_bdHQw7"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "testimonials_rTCqbw": {
       "type": "testimonials",
       "blocks": {
@@ -187,6 +220,7 @@
   },
   "order": [
     "main",
+    "rich_text_kHCJ37",
     "testimonials_rTCqbw"
   ]
 }
