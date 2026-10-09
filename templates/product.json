@@ -217,6 +217,22 @@
         "testimonial_card_text_color": ""
       }
     },
+    "scrolling_text_6CcYUy": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#1F1F1F",
+        "background_gradient": "",
+        "text_color": "#FFFFFF",
+        "text_gradient": ""
+      }
+    },
     "faq_KDU6h9": {
       "type": "faq",
       "blocks": {
@@ -275,6 +291,7 @@
     "main",
     "rich_text_kHCJ37",
     "testimonials_rTCqbw",
+    "scrolling_text_6CcYUy",
     "faq_KDU6h9"
   ]
 }
