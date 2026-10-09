@@ -113,6 +113,22 @@
         "product_card_text_color": ""
       }
     },
+    "scrolling_text_p3NQWW": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Promotion text",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "#1F1F1F",
+        "background_gradient": "",
+        "text_color": "#FFFFFF",
+        "text_gradient": ""
+      }
+    },
     "faq": {
       "type": "faq",
       "blocks": {
@@ -170,6 +186,7 @@
     "slideshow_TLbRfY",
     "media_with_text_wnXyCQ",
     "featured_collection_74jaEx",
+    "scrolling_text_p3NQWW",
     "faq"
   ]
 }
