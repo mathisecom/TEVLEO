@@ -181,6 +181,49 @@
         "product_card_text_color": ""
       }
     },
+    "slideshow_hWzAcT": {
+      "type": "slideshow",
+      "blocks": {
+        "image_jaCHhR": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/269c5def-87a4-425d-ac2d-c4bb431c31ec.png",
+            "mobile_image": "shopify://shop_images/8906b726-e778-46e7-8d84-7c40aee323cf.png",
+            "content_max_width": 780,
+            "mobile_text_position": "place-self-center text-center",
+            "desktop_text_position": "sm:place-self-center sm:text-center",
+            "subheading": "Tell your story",
+            "title": "Slide 1",
+            "heading_tag": "h0",
+            "button_text": "",
+            "button_link": "",
+            "text_color": "#ffffff",
+            "button_background": "#ffffff",
+            "button_text_color": "#000000",
+            "overlay_color": "#000000",
+            "overlay_opacity": 30,
+            "background": "",
+            "background_gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_jaCHhR"
+      ],
+      "name": "Slideshow",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": true,
+        "show_initial_transition": false,
+        "image_size": "auto",
+        "controls_type": "dots",
+        "transition_type": "fade_with_text",
+        "autoplay": false,
+        "cycle_speed": 6,
+        "background": "#f2f2f2",
+        "background_gradient": ""
+      }
+    },
     "scrolling_text_p3NQWW": {
       "type": "scrolling-text",
       "name": "Scrolling text",
@@ -255,6 +298,7 @@
     "logoscroll_UxqnCP",
     "media_with_text_wnXyCQ",
     "featured_collection_74jaEx",
+    "slideshow_hWzAcT",
     "scrolling_text_p3NQWW",
     "faq"
   ]
