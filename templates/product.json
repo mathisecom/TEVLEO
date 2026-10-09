@@ -217,6 +217,41 @@
         "testimonial_card_text_color": ""
       }
     },
+    "media_with_text_VJdg6Y": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_YeNKjn": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "Heading",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#FFFFFF",
+            "background_gradient": "",
+            "text_color": "#1F1F1F",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_YeNKjn"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "scrolling_text_6CcYUy": {
       "type": "scrolling-text",
       "name": "Scrolling text",
@@ -291,6 +326,7 @@
     "main",
     "rich_text_kHCJ37",
     "testimonials_rTCqbw",
+    "media_with_text_VJdg6Y",
     "scrolling_text_6CcYUy",
     "faq_KDU6h9"
   ]
