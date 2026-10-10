@@ -433,12 +433,24 @@
             "title": "Très Pratique",
             "content": "<p>Je ne pensais pas pouvoir mettre autant d'affaires dedans ! J'ai réussi à préparer presque une semaine de vêtements sans problème. Elle est légère, facile à transporter et le porte-gobelet est très pratique.&nbsp;</p>"
           }
+        },
+        "testimonial_XRPieE": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Julie P.",
+            "title": "Ça change des valises classiques ! ",
+            "content": "<p>Reçue et testée lors de mon dernier déplacement professionnel. Rien à redire, elle roule parfaitement et le compartiment pour l'ordinateur est vraiment bien pensé. Ça change des valises classiques !&nbsp;</p>"
+          }
         }
       },
       "block_order": [
         "testimonial_an7zAP",
         "testimonial_tWHniY",
-        "testimonial_AtAC6X"
+        "testimonial_AtAC6X",
+        "testimonial_XRPieE"
       ],
       "name": "Testimonials",
       "settings": {
