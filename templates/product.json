@@ -436,6 +436,76 @@
         "lazy": true
       }
     },
+    "media_with_text_xeXxGh": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_4Xwbpr": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "SERRURES TSA INTÉGRÉES",
+            "content": "<p>Les serrures TSA permettent de fermer votre valise avec un code personnel et facilitent les contrôles lors de certains voyages.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#FBFBFB",
+            "background_gradient": "",
+            "text_color": "#1A1A1A",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_4Xwbpr"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
+    "media_with_text_PQf4xj": {
+      "type": "media-with-text",
+      "blocks": {
+        "image_iRFEcW": {
+          "type": "image",
+          "settings": {
+            "media_width": 50,
+            "media_position": "start",
+            "text_position": "place-self-center-start text-start",
+            "icon": "none",
+            "icon_width": 48,
+            "subheading": "",
+            "title": "SERRURES TSA INTÉGRÉES",
+            "content": "<p>Les serrures TSA permettent de fermer votre valise avec un code personnel et facilitent les contrôles lors de certains voyages.</p>",
+            "link_text": "",
+            "link_url": "",
+            "background": "#FFFFFF",
+            "background_gradient": "",
+            "text_color": "#1A1A1A",
+            "text_gradient": "",
+            "button_background": "",
+            "button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_iRFEcW"
+      ],
+      "name": "Media with text",
+      "settings": {
+        "full_width": false,
+        "alternate_media_position": false,
+        "spacing": "none"
+      }
+    },
     "multi_column_JFH8BK": {
       "type": "multi-column",
       "blocks": {
@@ -484,6 +554,7 @@
         "item_AWNnAj",
         "item_dR7QKG"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -591,6 +662,8 @@
     "testimonials_rTCqbw",
     "media_with_text_VJdg6Y",
     "logoscroll_hTLWPY",
+    "media_with_text_xeXxGh",
+    "media_with_text_PQf4xj",
     "multi_column_JFH8BK",
     "scrolling_text_6CcYUy",
     "faq_KDU6h9"
