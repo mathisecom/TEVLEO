@@ -395,7 +395,7 @@
       "name": "Scrolling text",
       "settings": {
         "full_width": true,
-        "text": "Promotion text",
+        "text": "L’alliance parfaite entre Liberté et Ingéniosité.",
         "text_size": "xsmall",
         "text_style": "fill",
         "scrolling_mode": "auto",
