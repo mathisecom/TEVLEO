@@ -300,7 +300,7 @@
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_9_juin_2026_01_40_14.webp",
             "media_width": 50,
-            "media_position": "start",
+            "media_position": "end",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
@@ -323,7 +323,7 @@
       ],
       "name": "Media with text",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "alternate_media_position": false,
         "spacing": "none"
       }
