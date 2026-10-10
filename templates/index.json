@@ -127,7 +127,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/ChatGPT_Image_9_juin_2026_01_40_14.webp",
-            "media_width": 50,
+            "media_width": 55,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
@@ -153,7 +153,7 @@
       "settings": {
         "full_width": false,
         "alternate_media_position": false,
-        "spacing": "small"
+        "spacing": "none"
       }
     },
     "featured_collection_74jaEx": {
