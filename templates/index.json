@@ -126,14 +126,15 @@
         "image_Xd3kcV": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/ChatGPT_Image_9_juin_2026_01_40_14.webp",
             "media_width": 50,
             "media_position": "start",
             "text_position": "place-self-center-start text-start",
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "Heading",
-            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>",
+            "title": "Pensées pour le Voyage",
+            "content": "<p>Des valises cabine pensées pour le voyage : coque rigide, serrure TSA, roulettes <strong>360° silencieuses et intérieur</strong> compartimenté. Chaque détail est choisi pour durer et <strong>simplifier vos départs.</strong></p>",
             "link_text": "Découvrir",
             "link_url": "",
             "background": "#ffffff",
