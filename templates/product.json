@@ -412,22 +412,22 @@
         "item_Wiygat": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Quelle valise choisir selon la durée de mon voyage ?",
+            "content": "<p>Pour un court séjour, une valise cabine est idéale. Pour un voyage plus long, une valise soute offre plus d'espace et permet de mieux organiser ses affaires. Les dimensions exactes sont indiquées sur chaque fiche produit.</p>"
           }
         },
         "item_a4em4N": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "À quoi sert une serrure TSA ?",
+            "content": "<p>La serrure <strong>TSA</strong> sécurise votre valise et facilite les contrôles lors de certains voyages en avion, sans avoir besoin d'un cadenas externe. Elle est présente sur les modèles qui l'indiquent en fiche produit.</p>"
           }
         },
         "item_gkeAeR": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "Quels sont les délais de livraison ?",
+            "content": "<p>Les commandes sont préparées et expédiées sous 24 à 48 h ouvrées, puis livrées en 5 à 10 jours ouvrés. La livraison suivie est gratuite, sans minimum d'achat. Vous recevez votre numéro de suivi par e-mail dès l'expédition.</p>"
           }
         }
       },
