@@ -485,8 +485,8 @@
             "icon": "none",
             "icon_width": 48,
             "subheading": "",
-            "title": "SERRURES TSA INTÉGRÉES",
-            "content": "<p>Les serrures TSA permettent de fermer votre valise avec un code personnel et facilitent les contrôles lors de certains voyages.</p>",
+            "title": "ROUES 360° PIVOTANTES",
+            "content": "<p>Les roues pivotantes permettent de déplacer la valise plus facilement sur surfaces planes, comme les sols d’aéroport, de gare ou d’hôtel.</p>",
             "link_text": "",
             "link_url": "",
             "background": "#FFFFFF",
@@ -503,7 +503,7 @@
       ],
       "name": "Media with text",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "alternate_media_position": false,
         "spacing": "none"
       }
