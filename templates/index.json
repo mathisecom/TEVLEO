@@ -252,9 +252,9 @@
           "settings": {
             "image": "shopify://shop_images/D_35.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "PRÉCISION ERGONOMIQUE",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Accédez facilement à votre ordinateur (15,6\") et vos documents sans ouvrir toute votre valise. Votre bureau mobile reste à portée de main.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -265,9 +265,9 @@
           "settings": {
             "image": "shopify://shop_images/D_10.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "SÉCURITÉ TSA RENFORCÉE",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Les doubles serrures à clapets, sans fermeture éclair, assurent une fermeture robuste et protègent vos affaires durant vos voyages.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -278,9 +278,9 @@
           "settings": {
             "image": "shopify://shop_images/D_11.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "AGILITÉ SILENCIEUSE 360°",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p>Les roues multidirectionnelles en gomme TPE absorbent les vibrations pour un déplacement fluide et silencieux sur toutes les surfaces.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
