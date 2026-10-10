@@ -467,7 +467,7 @@
       ],
       "name": "Media with text",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "alternate_media_position": false,
         "spacing": "none"
       }
@@ -487,7 +487,7 @@
             "subheading": "",
             "title": "ROUES 360° PIVOTANTES",
             "content": "<p>Les roues pivotantes permettent de déplacer la valise plus facilement sur surfaces planes, comme les sols d’aéroport, de gare ou d’hôtel.</p>",
-            "link_text": "",
+            "link_text": "Obtenir Maintenant",
             "link_url": "",
             "background": "#FFFFFF",
             "background_gradient": "",
