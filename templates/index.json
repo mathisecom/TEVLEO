@@ -182,6 +182,68 @@
         "product_card_text_color": ""
       }
     },
+    "carouselavantages_hPteAz": {
+      "type": "carouselavantages",
+      "blocks": {
+        "advantage_PN8irE": {
+          "type": "advantage",
+          "settings": {
+            "icon": "lock",
+            "title": "Serrure TSA",
+            "description": "Verrouillage sécurisé accepté par les douanes."
+          }
+        },
+        "advantage_RdPdEF": {
+          "type": "advantage",
+          "settings": {
+            "icon": "shield",
+            "title": "Coque résistante",
+            "description": "Coque rigide conçue pour encaisser les trajets."
+          }
+        },
+        "advantage_AyYUXb": {
+          "type": "advantage",
+          "settings": {
+            "icon": "wheels",
+            "title": "Roulettes 360°",
+            "description": "Roues multidirectionnelles pour un roulage fluide."
+          }
+        },
+        "advantage_XtKCpY": {
+          "type": "advantage",
+          "settings": {
+            "icon": "send",
+            "title": "Prête à voyager",
+            "description": "Poignée télescopique et roulage sans effort."
+          }
+        }
+      },
+      "block_order": [
+        "advantage_PN8irE",
+        "advantage_RdPdEF",
+        "advantage_AyYUXb",
+        "advantage_XtKCpY"
+      ],
+      "name": "Avantages en carrousel",
+      "settings": {
+        "eyebrow": "CE QUI FAIT LA DIFFÉRENCE",
+        "heading": "Pensées pour voyager",
+        "heading_font": "sans",
+        "title_size": 38,
+        "background": "#FFFFFF",
+        "text_color": "#111111",
+        "muted_color": "#111111",
+        "border_color": "#111111",
+        "icon_color": "#111111",
+        "arrow_background": "#FFFFFF",
+        "desktop_card_width": 30,
+        "card_height": 190,
+        "card_gap": 14,
+        "mobile_card_width": 84,
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
     "multi_column_GkHNXd": {
       "type": "multi-column",
       "blocks": {
@@ -454,6 +516,7 @@
     "logoscroll_UxqnCP",
     "media_with_text_wnXyCQ",
     "featured_collection_74jaEx",
+    "carouselavantages_hPteAz",
     "multi_column_GkHNXd",
     "slideshow_hWzAcT",
     "scrolling_text_p3NQWW",
