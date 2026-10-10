@@ -417,9 +417,9 @@
         "card_width_desktop": 130,
         "card_width_mobile": 100,
         "heading_color": "#121212",
-        "layout_bg_color": "#FFFFFF",
+        "layout_bg_color": "#ffffff",
         "layout_border_color": "#121212",
-        "background_color": "#FFFFFF",
+        "background_color": "#ffffff",
         "border_color": "#121212",
         "margin_top": 0,
         "margin_bottom": 0,
@@ -453,9 +453,9 @@
             "content": "<p>Les serrures TSA permettent de fermer votre valise avec un code personnel et facilitent les contrôles lors de certains voyages.</p>",
             "link_text": "",
             "link_url": "#shopify-section-template--27833290817630__main",
-            "background": "#FBFBFB",
+            "background": "#fbfbfb",
             "background_gradient": "",
-            "text_color": "#1A1A1A",
+            "text_color": "#1a1a1a",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -470,6 +470,68 @@
         "full_width": true,
         "alternate_media_position": false,
         "spacing": "none"
+      }
+    },
+    "carouselavantages_UFaCbQ": {
+      "type": "carouselavantages",
+      "blocks": {
+        "advantage_YLUCet": {
+          "type": "advantage",
+          "settings": {
+            "icon": "lock",
+            "title": "Serrure TSA",
+            "description": "Verrouillage sécurisé accepté par les douanes."
+          }
+        },
+        "advantage_tAj97b": {
+          "type": "advantage",
+          "settings": {
+            "icon": "shield",
+            "title": "Coque résistante",
+            "description": "Coque rigide conçue pour encaisser les trajets."
+          }
+        },
+        "advantage_RBDTV3": {
+          "type": "advantage",
+          "settings": {
+            "icon": "wheels",
+            "title": "Roulettes 360°",
+            "description": "Roues multidirectionnelles pour un roulage fluide."
+          }
+        },
+        "advantage_UyUeDx": {
+          "type": "advantage",
+          "settings": {
+            "icon": "send",
+            "title": "Prête à voyager",
+            "description": "Poignée télescopique et roulage sans effort."
+          }
+        }
+      },
+      "block_order": [
+        "advantage_YLUCet",
+        "advantage_tAj97b",
+        "advantage_RBDTV3",
+        "advantage_UyUeDx"
+      ],
+      "name": "Avantages en carrousel",
+      "settings": {
+        "eyebrow": "CE QUI FAIT LA DIFFÉRENCE",
+        "heading": "Pensées pour voyager",
+        "heading_font": "sans",
+        "title_size": 38,
+        "background": "#FFFFFF",
+        "text_color": "#111111",
+        "muted_color": "#111111",
+        "border_color": "#111111",
+        "icon_color": "#111111",
+        "arrow_background": "#FFFFFF",
+        "desktop_card_width": 30,
+        "card_height": 190,
+        "card_gap": 14,
+        "mobile_card_width": 84,
+        "padding_top": 0,
+        "padding_bottom": 24
       }
     },
     "media_with_text_PQf4xj": {
@@ -489,9 +551,9 @@
             "content": "<p>Les roues pivotantes permettent de déplacer la valise plus facilement sur surfaces planes, comme les sols d’aéroport, de gare ou d’hôtel.</p>",
             "link_text": "Obtenir Maintenant",
             "link_url": "#shopify-section-template--27833290817630__main",
-            "background": "#FFFFFF",
+            "background": "#ffffff",
             "background_gradient": "",
-            "text_color": "#1A1A1A",
+            "text_color": "#1a1a1a",
             "text_gradient": "",
             "button_background": "",
             "button_text_color": ""
@@ -665,6 +727,7 @@
     "media_with_text_VJdg6Y",
     "logoscroll_hTLWPY",
     "media_with_text_xeXxGh",
+    "carouselavantages_UFaCbQ",
     "media_with_text_PQf4xj",
     "multi_column_JFH8BK",
     "scrolling_text_6CcYUy",
