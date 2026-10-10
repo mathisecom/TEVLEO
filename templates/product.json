@@ -241,9 +241,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 4,
-            "author": "John S.",
-            "title": "Testimonial 1",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Sophie M.",
+            "title": "Je recommande !",
+            "content": "<p>Franchement, super surprise ! Je l'ai prise pour un week-end à Barcelone et elle est vraiment pratique. L'ouverture à l'avant pour récupérer mon ordinateur sans ouvrir toute la valise, c'est génial. Je recommande !</p>"
           }
         },
         "testimonial_DmQjJc": {
@@ -252,9 +252,9 @@
             "round_avatar": true,
             "show_rating": true,
             "rating": 5,
-            "author": "Mary U.",
-            "title": "Testimonial 2",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "author": "Camille R.",
+            "title": "Je suis vraiment satisfait de mon achat.",
+            "content": "<p>Très belle valise, les finitions sont propres et les roulettes glissent super bien. Le port USB-C est un vrai plus pendant les déplacements. Pour le prix, je suis vraiment satisfait de mon achat.</p>"
           }
         },
         "testimonial_AbQkWR": {
@@ -264,15 +264,27 @@
             "show_rating": true,
             "rating": 4,
             "author": "Joshua A.",
-            "title": "Testimonial 3",
-            "content": "<p>Share what your customers are saying about your products, customer service or shipping rates.</p>"
+            "title": "Incroyable très pratique",
+            "content": "<p>Je ne pensais pas pouvoir mettre autant d'affaires dedans ! J'ai réussi à préparer presque une semaine de vêtements sans problème. Elle est légère, facile à transporter et le porte-gobelet est très pratique.</p>"
+          }
+        },
+        "testimonial_HQfTek": {
+          "type": "testimonial",
+          "settings": {
+            "round_avatar": true,
+            "show_rating": true,
+            "rating": 4,
+            "author": "Lucas P.",
+            "title": "Ça change des valises classiques !",
+            "content": "<p>Reçue et testée lors de mon dernier déplacement professionnel. Rien à redire, elle roule parfaitement et le compartiment pour l'ordinateur est vraiment bien pensé. Ça change des valises classiques !</p>"
           }
         }
       },
       "block_order": [
         "testimonial_kMKep4",
         "testimonial_DmQjJc",
-        "testimonial_AbQkWR"
+        "testimonial_AbQkWR",
+        "testimonial_HQfTek"
       ],
       "name": "Testimonials",
       "settings": {
