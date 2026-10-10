@@ -23,8 +23,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Livraison Offerte",
-            "content": ""
+            "title": "LIVRAISON OFFERTE",
+            "content": "<p>Sur toutes vos commandes</p>"
           }
         },
         "customer-support": {
@@ -36,8 +36,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Paiement Sécurisé",
-            "content": ""
+            "title": "RETOURS 14 JOURS",
+            "content": "<p>Sans condition, étiquette prépayée envoyée par email.</p>"
           }
         },
         "discount": {
@@ -49,8 +49,8 @@
             "icon_background_type": "none",
             "icon_background": "",
             "icon_color": "",
-            "title": "Service Client 24/7",
-            "content": ""
+            "title": "SERVICE CLIENT 7J/7",
+            "content": "<p>Réponse sous 24h ouvré à contact@velaro.fr</p>"
           }
         }
       },
@@ -96,7 +96,7 @@
           "type": "text",
           "settings": {
             "title": "Contactez-Nous",
-            "content": "<p>Service Client</p><p>Lun–Ven | 9h–12h / 13h–17h<br/><strong><br/>creation@velaro.com</strong></p>",
+            "content": "<p>Service Client</p><p>Lun–Ven | 9h–12h / 13h–17h<br/><strong><br/>contact@velaro.fr</strong></p>",
             "enable_follow_on_shop": true
           }
         }
